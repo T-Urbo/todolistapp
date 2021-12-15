@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
 options: "54b451db8b89dbeff6eff02dadab99b0"
-build_time: [1638548344, 941354000]
+build_time: [1639607002, 195105000]
 inputs:
-  "/Users/timotheyurbanovich/Library/Autosave Information/SwiftBook/ToDoAppOnlyMyself/ToDoAppOnlyMyself/ViewController.swift": [1637856439, 973947469]
+  "/Users/timotheyurbanovich/Library/Autosave Information/SwiftBook/ToDoAppOnlyMyself/ToDoAppOnlyMyself/ViewController.swift": [1638743419, 729116072]
   "/Users/timotheyurbanovich/Library/Autosave Information/SwiftBook/ToDoAppOnlyMyself/ToDoAppOnlyMyself/AppDelegate.swift": [1637505640, 22111713]
   "/Users/timotheyurbanovich/Library/Autosave Information/SwiftBook/ToDoAppOnlyMyself/ToDoAppOnlyMyself/SceneDelegate.swift": [1637505640, 41172385]
   "/Users/timotheyurbanovich/Library/Autosave Information/SwiftBook/ToDoAppOnlyMyself/ToDoAppOnlyMyself/ToDoListItem/ToDoListItem+CoreDataClass.swift": [1637508725, 194154293]
